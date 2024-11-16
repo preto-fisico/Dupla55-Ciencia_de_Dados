@@ -1,3 +1,3 @@
-# Implementação e Análise do Algoritmo k-Nearest Neighbors (kNN) Aplicado ao Instagram
+# IMPLEMENTAÇÃO E ANÁLISE DO ALGORITMO DE REGRESSÃO LINEAR SOBRE DADOS DOS PRINCIPAIS INFLUENCIADORES DO INSTAGRAM
 
 
