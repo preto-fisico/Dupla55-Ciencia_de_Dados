@@ -2,7 +2,7 @@
 
 Descrição do Projeto: 
 
-O presente relatório técnico descreve o desenvolvimento de um modelo preditivo utilizando o algoritmo de Regressão Linear para inferir a taxa de engajamento dos principais influenciadores do Instagram e suas variáveis independentes. O projeto abrange etapas fundamentais, incluindo a análise exploratória dos dados para identificação de padrões e correlações relevantes, a implementação do modelo preditivo, a otimização dos parâmetros e a validação do desempenho do modelo.
+Este projeto trata-se de um modelo preditivo que utiliza a técnica de análise: Regressão Linear para inferir a taxa de engajamento dos principais influenciadores do Instagram e suas variáveis independentes. O objetivo  do modelo é captar as relações lineres entre os dados,  e a partir dessa análise contrir um modelo preditivo.
 
 Instalação: O projeto pode ser implementado por meio  de qualquer compilador Python. as bibliotecas apresentadas no código devem ser instaladas,  e devem ser feitas alterações
 no diretório dos arquivos csv caso seja implementada em outro notebook do COLAB, ou outros compilador.
