@@ -14,7 +14,7 @@ Estrutura dos Arquivos: O programa em Python está armazenado na pasta do drive:
 e utliza os arquivos csv armazenados no seguinte diretório do google drive:https://drive.google.com/drive/folders/1U4nJUGAj0tm3PAyYqlas8gPAvuf85dJ4 ou /content/drive/My Drive/projetounidade9/
 
 Tecnologias Utilizadas: O programa foi  escrito na linguagem Python  
-Versão do Python: 3.10.12 (main, Sep 11 2024, 15:47:36) [GCC 11.4.0]
+Versão do Python: 3.10.12 
 
 Bibliotecas utilizadas:
 
